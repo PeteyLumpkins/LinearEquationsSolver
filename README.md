@@ -8,7 +8,7 @@ set up to read input from a file and output from a file. I doubt this thing will
 The SystemSolver only works for systems involving REAL NUMBERS. It has not been adapted to work with imaginary numbers. If I adapt the application to
 work with imaginary numbers I will try to remember to update this page.
 
-The main method is located in the Main.java file. The input format for taking user input from the console is described bellow.
+The main method is located in the Main.java file, which is located under the Main folder. The input format for taking user input from the console is described bellow.
 
 Suppose I want to enter the following system: 
 
