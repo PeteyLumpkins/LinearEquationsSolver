@@ -12,9 +12,9 @@ The main method is located in the Main.java file. The input format for taking us
 
 Suppose I want to enter the following system: 
 
-x + 2y + 3z = 4
-5x + 6y + 7z = 8
-9x + 10y + 11z = 12
+x + 2y + 3z = 4, 
+5x + 6y + 7z = 8, 
+9x + 10y + 11z = 12, 
 
 When you run the main method, you should be prompted with the following line:
 
