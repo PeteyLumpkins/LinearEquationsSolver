@@ -20,7 +20,16 @@ The goal of this project was to reinforce the what I had been studying in my cou
 # How to get started
 First, make sure you have java installed on your system. Java 15.0.1 will work, however any version of java later than java 8 will work (I think).
 
-In order to run the program, navigate to the file main.java: 
+In order to run the program, navigate to the file main.java and run the file.
+```
+LinearEquationsSolver >>> src >>> Main >>> main.java
+```
+
+Hopefully the program does not crash. If all goes smoothly, the console should look like this:
+```
+>>> Enter number of variables: 
+```
+Examples on how to use the application will be described in the tutorial section below.
 
 # Tutorial
 
