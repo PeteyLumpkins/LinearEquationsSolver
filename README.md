@@ -42,6 +42,36 @@ Suppose that we have three variables (X1, X2, X3) and a system of linear equatio
 2 * (X1) + 4 * (X2) - 3 * (X3) = 1
 3 * (X1) + 6 * (X2) - 5 * (X3) = 0
 ```
-Now, 
+This system of linear equations has the corresponding coefficient:
+```
+[1, 1, 2, 9]
+[2, 4, -3, 1]
+[3, 6, -5, 0]
+```
+Now, when we run the main.java file, the console will ask the user to input the number of variables in our system of equations. In this case, we are dealing with 3 variables (X1, X2, X3), so we enter 3.
+```
+Enter number of variables: >3
+```
+Once we enter the number of variables, we will be prompted to enter then number of equations. In this case, we have 3 rows in our 
+coefficient matrix above, and therefore 3 equations, so we enter 3.
+```
+Enter number of variables: >3
+Enter number of equations: >3
+```
+The program will now prompt us for each equation. We want to enter the corresponding row of the coefficient matrix for each equation in our system, with each coefficient seperated by a space (see below).
+```
+Enter number of variables: >3
+Enter number of variables: >3
+Enter row 0: >1 1 2 9
+Enter row 1: >2 4 -3 1
+Enter row 2: >3 6 -5 0
 
+X1 = 1.0
+X2 = 2.0
+X3 = 3.0
+
+
+Process finished with exit code 0
+```
+After we enter each of the rows in the coefficient matrix, the program will solve the system and print out the solution.
 
