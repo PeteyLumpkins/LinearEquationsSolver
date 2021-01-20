@@ -42,6 +42,6 @@ Suppose that we have three variables (X1, X2, X3) and a system of linear equatio
 2 * (X1) + 4 * (X2) - 3 * (X3) = 1
 3 * (X1) + 6 * (X2) - 5 * (X3) = 0
 ```
-
+Now, 
 
 
