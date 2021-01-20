@@ -74,4 +74,6 @@ X3 = 3.0
 Process finished with exit code 0
 ```
 After we enter each of the rows in the coefficient matrix, the program will solve the system and print out the solution.
-
+### Disclaimers and Potential Bugs
+- This program does not work with complex numbers. It is something I'd like to implement in the future, but for now it only works with floating point values and integers.
+- The program assumes that your input is valid. If you say that your system of equations has 3 variables and 3 equations, the program expects 4 coefficients per row. If you enter more than 4 coefficients the program will produce an incorrect result.
