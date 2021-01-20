@@ -32,5 +32,16 @@ Hopefully the program does not crash. If all goes smoothly, the console should l
 Examples on how to use the application will be described in the tutorial section below.
 
 # Tutorial
+This will be the tutorial for how to use the linear system of equations solver, and what kind of input parameters the program 
+will accept.
+
+### A simple example
+Suppose that we have three variables (X1, X2, X3) and a system of linear equations as follows:
+```
+1 * (X1) + 1 * (X2) + 2 * (X3) = 9
+2 * (X1) + 4 * (X2) - 3 * (X3) = 1
+3 * (X1) + 6 * (X2) - 5 * (X3) = 0
+```
+
 
 
